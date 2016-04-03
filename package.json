@@ -33,7 +33,8 @@
     ]
   },
   "dependencies": {
-    "debug": "2.x"
+    "debug": "2.x",
+    "moment": "^2.12.0"
   },
   "peerDependencies": {
     "loopback-datasource-juggler": ">=2.33.2"
